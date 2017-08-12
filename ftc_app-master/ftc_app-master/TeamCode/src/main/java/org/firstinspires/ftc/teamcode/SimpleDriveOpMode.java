@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
 /**
- * Created by suhu on 8/11/2017.
+ * Created by Anne on 8/11/2017.
  */
 
 public class SimpleDriveOpMode extends OpMode {
